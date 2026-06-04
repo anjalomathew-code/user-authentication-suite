@@ -1,8 +1,8 @@
 # User Authentication Suite
 
-**INTERN ID:** CT04DS1234 (replace with your actual ID from Codtech dashboard)
-**FULL NAME:** Albina Mathew
-**NO. OF WEEKS:** (your weeks)
+**INTERN ID:** CITS1119
+**FULL NAME:** Anjalo mathew
+**NO. OF WEEKS:** 4 WEEKS
 **PROJECT NAME:** User Authentication Suite
 **PROJECT SCOPE:** Backend REST API with JWT Authentication
 
